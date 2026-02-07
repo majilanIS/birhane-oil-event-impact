@@ -48,3 +48,36 @@
     Insights for further modeling
 
 ---
+
+---
+
+## Task 2: Change Point Modeling and Insight Generation
+
+**Objective:**  
+Identify structural breaks in Brent oil prices using Bayesian Change Point Analysis and quantify impacts of major events.
+
+**Contents:**
+
+- `notebooks/point_modelling_and_insight_generation.ipynb` – Jupyter notebook with full analysis.
+- `data/raw/BrentOilPrices.csv` – Brent oil prices dataset.
+- `data/events/events.csv` – Key geopolitical and economic events.
+
+**Analysis Steps:**
+
+1. Load and clean Brent oil price data.
+2. Calculate log returns and visualize volatility.
+3. Build a Bayesian Change Point Model using PyMC.
+4. Detect change points and associate them with key events.
+5. Quantify before/after impacts on prices.
+6. Visualize posterior distributions, change points, and event impacts.
+
+**Deliverables:**
+
+- Interactive notebook with results.
+- Visualizations of change points and event impacts.
+- Quantitative interpretation of structural breaks.
+
+**Dependencies:**  
+`pandas`, `numpy`, `matplotlib`, `pymc`, `arviz`, `statsmodels`
+
+---
