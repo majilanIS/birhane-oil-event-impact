@@ -1,0 +1,21 @@
+Date,Event,Category,Region,Expected_Impact,Confidence
+1990-08-02,Iraq invades Kuwait (Gulf War begins),War,Middle East,Supply shock,High
+1997-07-02,Asian Financial Crisis begins,Economic Crisis,Asia,Demand shock,Medium
+2001-09-11,9/11 attacks in the US,Geopolitical,US,Risk premium,Medium
+2003-03-20,Iraq War begins,War,Middle East,Supply shock,High
+2008-09-15,Lehman collapse (Global Financial Crisis shock),Economic Crisis,Global,Demand shock,High
+2011-02-15,Arab Spring / Libya supply disruption,Geopolitical,Middle East,Supply shock,Medium
+2014-11-27,OPEC keeps production high,OPEC Decision,Global,Supply increase,High
+2016-01-16,Iran sanctions lifted,Sanctions,Middle East,Supply increase,High
+2016-11-30,OPEC production cut agreement,OPEC Decision,Global,Supply cut,High
+2018-05-08,US exits Iran nuclear deal,Sanctions,Middle East,Supply risk,High
+2019-09-14,Saudi Aramco attacked,Geopolitical,Middle East,Supply disruption,High
+2020-03-11,COVID-19 declared pandemic,Pandemic,Global,Demand collapse,High
+2020-04-12,OPEC+ historic cut,OPEC Decision,Global,Supply cut,High
+2021-11-26,Omicron variant shock,Pandemic,Global,Demand fear,Medium
+2022-02-24,Russia invades Ukraine,War,Europe,Supply risk,High
+2022-03-08,US bans Russian oil,Sanctions,Global,Supply reduction,High
+2022-10-05,OPEC+ output cuts,OPEC Decision,Global,Supply cut,High
+2023-04-02,Surprise OPEC+ cut,OPEC Decision,Global,Supply cut,High
+2023-10-07,Middle East conflict,Geopolitical,Middle East,Risk premium,Medium
+2024-06-02,OPEC+ extends cuts,OPEC Decision,Global,Supply cut,High
