@@ -145,7 +145,8 @@ Analyze Brent oil prices to understand long-term trends, volatility patterns, an
 - Returns and rolling volatility charts
 - Event-period vs normal-period comparison
 - Cumulative return plots
-
+- GitHub Actions CI badge showing successful automated tests.
+<img width="711" height="352" alt="image" src="https://github.com/user-attachments/assets/ee78b728-f01e-4dd3-9de9-9a8d0bad3f6a" />
 
 **Outputs**
 
